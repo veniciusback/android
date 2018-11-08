@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OffTrail</string>
+    <string name="msg_splash">Carregando...</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtSenha">Senha</string>
+    <string name="Entrar">Entrar</string>
+    <string name="btnSair">Sair</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="txtPassword" />
+    <string name="txtNomeTrilheiro">Nome Do Trilheiro</string>
+    <string name="txtIdade">Idade</string>
+
+</resources>

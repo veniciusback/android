@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OffTrail</string>
+    <string name="msg_splash">Carregando...</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtSenha">Senha</string>
+
+
+    <string name="Entrar">Entrar</string>
+    <string name="btnSair">Sair</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="txtPassword" />
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtIdade" translatable="false">Idade</string>
+    <string name="txtNomeTrilheiro">Nome Do Trilheiro</string>
+</resources>
